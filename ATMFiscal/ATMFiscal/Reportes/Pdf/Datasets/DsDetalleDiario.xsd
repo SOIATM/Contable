@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsDetalleDiario" targetNamespace="http://tempuri.org/DsDetalleDiario.xsd" xmlns:mstns="http://tempuri.org/DsDetalleDiario.xsd" xmlns="http://tempuri.org/DsDetalleDiario.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsDetalleDiario" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsDetalleDiario" msprop:Generator_UserDSName="DsDetalleDiario">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DetalleDiario" msprop:Generator_TableClassName="DetalleDiarioDataTable" msprop:Generator_TableVarName="tableDetalleDiario" msprop:Generator_TablePropName="DetalleDiario" msprop:Generator_RowDeletingName="DetalleDiarioRowDeleting" msprop:Generator_RowChangingName="DetalleDiarioRowChanging" msprop:Generator_RowEvHandlerName="DetalleDiarioRowChangeEventHandler" msprop:Generator_RowDeletedName="DetalleDiarioRowDeleted" msprop:Generator_UserTableName="DetalleDiario" msprop:Generator_RowChangedName="DetalleDiarioRowChanged" msprop:Generator_RowEvArgName="DetalleDiarioRowChangeEvent" msprop:Generator_RowClassName="DetalleDiarioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id_Poliza" msprop:Generator_ColumnVarNameInTable="columnId_Poliza" msprop:Generator_ColumnPropNameInRow="Id_Poliza" msprop:Generator_ColumnPropNameInTable="Id_PolizaColumn" msprop:Generator_UserColumnName="Id_Poliza" type="xs:string" minOccurs="0" />
+              <xs:element name="CuentaDe" msprop:Generator_ColumnVarNameInTable="columnCuentaDe" msprop:Generator_ColumnPropNameInRow="CuentaDe" msprop:Generator_ColumnPropNameInTable="CuentaDeColumn" msprop:Generator_UserColumnName="CuentaDe" type="xs:string" minOccurs="0" />
+              <xs:element name="Cuenta" msprop:Generator_ColumnVarNameInTable="columnCuenta" msprop:Generator_ColumnPropNameInRow="Cuenta" msprop:Generator_ColumnPropNameInTable="CuentaColumn" msprop:Generator_UserColumnName="Cuenta" type="xs:string" minOccurs="0" />
+              <xs:element name="Descricpion" msprop:Generator_ColumnVarNameInTable="columnDescricpion" msprop:Generator_ColumnPropNameInRow="Descricpion" msprop:Generator_ColumnPropNameInTable="DescricpionColumn" msprop:Generator_UserColumnName="Descricpion" type="xs:string" minOccurs="0" />
+              <xs:element name="Cargo" msprop:Generator_ColumnVarNameInTable="columnCargo" msprop:Generator_ColumnPropNameInRow="Cargo" msprop:Generator_ColumnPropNameInTable="CargoColumn" msprop:Generator_UserColumnName="Cargo" type="xs:string" minOccurs="0" />
+              <xs:element name="Abono" msprop:Generator_ColumnVarNameInTable="columnAbono" msprop:Generator_ColumnPropNameInRow="Abono" msprop:Generator_ColumnPropNameInTable="AbonoColumn" msprop:Generator_UserColumnName="Abono" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

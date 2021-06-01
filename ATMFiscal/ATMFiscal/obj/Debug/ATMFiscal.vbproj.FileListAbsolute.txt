@@ -1,0 +1,881 @@
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe.config
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\FlashControlV71.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\TelerikCommon.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\stdole.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbprojAssemblyReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BarraProcesovb.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogExpExcel.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogUnaSeleccion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Listas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Masivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.tabla_detalle.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tabla_Filtro.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.AuditorRegistrosXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Calculo_de_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Diot.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cruces_Saldos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ComplementosSinFactura.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ControldeEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Emitidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Letras_Contabilizacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Parcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Polizas_Modelo_Recibidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BancosRFC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Clasificaciondecuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves_Sat.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Tasas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImpuestosPM.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionesdeIVAClientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Codificar_XML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReportesXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionIva.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Empresas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Inicio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Resources.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_del_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Depto_trabajo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Usuarios.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Ingresos_Series.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivoCancelacionesIVA.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Formas_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Metodos_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Poliza_SAT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Uso_CFDI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_de_Cambio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargar_Saldos_Iniciales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DIOT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EstadodeResultados.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Diario.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balanza.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balance.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Auxiliares.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Mayores.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteBalanzaGeneral.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Acceso.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResetPass.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Proyectos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Designar_Usuarios_Equipos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Bancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Complementos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_XML_DB.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Poliza_Modelo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.GenerateResource.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe.licenses
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CoreCompileInputs.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CopyComplete
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscar_Errores_Cruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Masivo_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Leector_de_Archivo_IMSS.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.TipoActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResumenCruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Activos_Clientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_MOI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion_Anual_Activos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeTerrenos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Altas_Bajas_Modificaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Carga_Masiva_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Catalogo_Cuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Exportar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CodificadorGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresosGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CuentasContablesFiscales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosClietesObligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ContabilizadordeGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EliminaXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberadorPolizasEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarCarga.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarParcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CatalogoSumas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.PolizasMasivas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 5.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VerificadorPolizas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe.config
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.pdb
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.xml
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\FlashControlV71.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\TelerikCommon.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\stdole.dll
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.xml
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbprojAssemblyReference.cache
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BarraProcesovb.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscador.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogExpExcel.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogUnaSeleccion.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Listas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Masivos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.tabla_detalle.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tabla_Filtro.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.AuditorRegistrosXML.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Calculo_de_Impuestos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResumenCruces.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscar_Errores_Cruces.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Diot.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cruces_Saldos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Catalogo_Cuentas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ComplementosSinFactura.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ControldeEgresos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Polizas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Emitidas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargos_Cero.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Cero.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Obligaciones.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Exportar_Polizas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Polizas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.PolizasMasivas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VerificadorPolizas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Letras_Contabilizacion.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Parcialidades.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Polizas_Modelo_Recibidas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BancosRFC.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Clasificaciondecuentas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves_Sat.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Tasas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Obligaciones.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImpuestosPM.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Activos_Clientes.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Depreciacion.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_MOI.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion_Anual_Activos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.TipoActivos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeActivos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeTerrenos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CodificadorGastos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Altas_Bajas_Modificaciones.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Carga_Masiva_Personal.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Masivo_Personal.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Leector_de_Archivo_IMSS.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionesdeIVAClientes.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Codificar_XML.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReportesXml.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionIva.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresosGastos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Empresas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Inicio.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Resources.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_del_Personal.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Depto_trabajo.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Usuarios.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CuentasContablesFiscales.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Ingresos_Series.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosClietesObligaciones.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivoCancelacionesIVA.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Formas_de_Pago.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Metodos_de_Pago.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Poliza_SAT.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Polizas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Uso_CFDI.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_de_Cambio.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargar_Saldos_Iniciales.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DIOT.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EstadodeResultados.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Diario.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balanza.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balance.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Auxiliares.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Mayores.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteBalanzaGeneral.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Acceso.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResetPass.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Proyectos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Designar_Usuarios_Equipos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Bancos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CatalogoSumas.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ContabilizadordeGastos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EliminaXML.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Complementos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_XML_DB.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberadorPolizasEgresos.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarCarga.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarParcialidades.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Poliza_Modelo.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteXml.resources
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.GenerateResource.cache
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe.licenses
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CoreCompileInputs.cache
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CopyComplete
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.xml
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe.config
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\FlashControlV71.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\TelerikCommon.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\stdole.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbprojAssemblyReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BarraProcesovb.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogExpExcel.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogUnaSeleccion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Listas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Masivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.tabla_detalle.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tabla_Filtro.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.AuditorRegistrosXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Calculo_de_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResumenCruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscar_Errores_Cruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Diot.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cruces_Saldos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Catalogo_Cuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ComplementosSinFactura.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ControldeEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Emitidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Exportar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.PolizasMasivas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VerificadorPolizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Letras_Contabilizacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Parcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Polizas_Modelo_Recibidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BancosRFC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Clasificaciondecuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves_Sat.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Tasas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImpuestosPM.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Activos_Clientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_MOI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion_Anual_Activos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.TipoActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeTerrenos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CodificadorGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Altas_Bajas_Modificaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Carga_Masiva_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Masivo_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Leector_de_Archivo_IMSS.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionesdeIVAClientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Codificar_XML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReportesXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionIva.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresosGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Empresas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Inicio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Resources.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_del_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Depto_trabajo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Usuarios.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CuentasContablesFiscales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Ingresos_Series.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosClietesObligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivoCancelacionesIVA.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Formas_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Metodos_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Poliza_SAT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Uso_CFDI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_de_Cambio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargar_Saldos_Iniciales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DIOT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EstadodeResultados.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Diario.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balanza.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balance.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Auxiliares.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Mayores.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteBalanzaGeneral.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Acceso.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResetPass.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Proyectos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Designar_Usuarios_Equipos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Bancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CatalogoSumas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ContabilizadordeGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EliminaXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Complementos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_XML_DB.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberadorPolizasEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarCarga.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarParcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Poliza_Modelo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.GenerateResource.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe.licenses
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CoreCompileInputs.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CopyComplete
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.0\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.pdb
+C:\Users\elihu\OneDrive\Escritorio\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Contabilizacion_Digital.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbprojAssemblyReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe.config
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\FlashControlV71.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\TelerikCommon.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\stdole.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.ResolveComReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BarraProcesovb.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogExpExcel.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogUnaSeleccion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Listas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Masivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.tabla_detalle.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tabla_Filtro.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.AuditorRegistrosXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Calculo_de_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResumenCruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscar_Errores_Cruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Diot.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cruces_Saldos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Catalogo_Cuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ComplementosSinFactura.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ControldeEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Emitidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Exportar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.PolizasMasivas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VerificadorPolizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Letras_Contabilizacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Parcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Polizas_Modelo_Recibidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BancosRFC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Clasificaciondecuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves_Sat.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Tasas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImpuestosPM.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Activos_Clientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_MOI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion_Anual_Activos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.TipoActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeTerrenos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Contabilizacion_Digital.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CodificadorGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Altas_Bajas_Modificaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Carga_Masiva_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Masivo_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Leector_de_Archivo_IMSS.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionesdeIVAClientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Codificar_XML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReportesXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionIva.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresosGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Empresas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Inicio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Resources.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_del_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Depto_trabajo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Usuarios.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CuentasContablesFiscales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Ingresos_Series.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosClietesObligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivoCancelacionesIVA.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Formas_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Metodos_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Poliza_SAT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Uso_CFDI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_de_Cambio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargar_Saldos_Iniciales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DIOT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EstadodeResultados.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Diario.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balanza.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balance.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Auxiliares.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Mayores.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteBalanzaGeneral.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Acceso.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResetPass.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Proyectos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Designar_Usuarios_Equipos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Bancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CatalogoSumas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.RecontabilizadorComprobacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ContabilizadordeGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EliminaXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Complementos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_XML_DB.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberadorPolizasEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarCarga.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarParcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Poliza_Modelo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.GenerateResource.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe.licenses
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CoreCompileInputs.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CopyComplete
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Version 6.1\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe.config
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\FlashControlV71.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\TelerikCommon.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\stdole.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.ResolveComReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BarraProcesovb.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogExpExcel.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogUnaSeleccion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Listas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Masivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.tabla_detalle.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tabla_Filtro.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.AuditorRegistrosXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Calculo_de_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResumenCruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscar_Errores_Cruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Diot.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ListaNegra.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cruces_Saldos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Catalogo_Cuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ComplementosSinFactura.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ControldeEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Emitidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Exportar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.PolizasMasivas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VerificadorPolizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Letras_Contabilizacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Parcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Polizas_Modelo_Recibidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BancosRFC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Clasificaciondecuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves_Sat.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Tasas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImpuestosPM.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Activos_Clientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_MOI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion_Anual_Activos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.TipoActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeTerrenos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Contabilizacion_Digital.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CodificadorGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Altas_Bajas_Modificaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Carga_Masiva_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Masivo_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Leector_de_Archivo_IMSS.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionesdeIVAClientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Codificar_XML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReportesXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionIva.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresosGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Empresas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Inicio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Resources.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_del_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Depto_trabajo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Usuarios.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CuentasContablesFiscales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Ingresos_Series.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosClietesObligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivoCancelacionesIVA.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Formas_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Metodos_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Poliza_SAT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Uso_CFDI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_de_Cambio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargar_Saldos_Iniciales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DIOT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosBancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EstadodeResultados.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Diario.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balanza.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balance.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Auxiliares.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Mayores.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteBalanzaGeneral.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Acceso.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResetPass.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Proyectos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Designar_Usuarios_Equipos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Bancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CatalogoSumas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_con_saldo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.RecontabilizadorComprobacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ContabilizadordeGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EliminaXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Complementos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_XML_DB.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberadorPolizasEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarCarga.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarParcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Poliza_Modelo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.GenerateResource.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe.licenses
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CoreCompileInputs.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CopyComplete
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbprojAssemblyReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Abonos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_IVA_AC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Reclasificador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImportarCatalogos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Funcional\ATMFiscal\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Liberar_UUID.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe.config
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.pdb
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\FlashControlV71.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\TelerikCommon.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\stdole.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\bin\Debug\Telerik.WinControls.UI.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbprojAssemblyReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.ResolveComReference.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BarraProcesovb.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogExpExcel.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DialogUnaSeleccion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Listas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Masivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.tabla_detalle.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tabla_Filtro.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.AuditorRegistrosXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Calculo_de_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResumenCruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Buscar_Errores_Cruces.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Diot.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Impuestos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_IVA_AC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ListaNegra.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Abonos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cruces_Saldos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Catalogo_Cuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ComplementosSinFactura.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ControldeEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Emitidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargos_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Cero.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Exportar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.PolizasMasivas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VerificadorPolizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Letras_Contabilizacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Parcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Polizas_Modelo_Recibidas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.BancosRFC.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Clasificaciondecuentas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Claves_Sat.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Tasas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Obligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImpuestosPM.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Activos_Clientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_Depreciacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_MOI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Depreciacion_Anual_Activos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.TipoActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeActivos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.VentadeTerrenos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Contabilizacion_Digital.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CodificadorGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Altas_Bajas_Modificaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Carga_Masiva_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Masivo_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Leector_de_Archivo_IMSS.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionesdeIVAClientes.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Codificar_XML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReportesXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CancelacionIva.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ClavesEgresosGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Empresas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Inicio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Resources.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_del_Personal.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Depto_trabajo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_de_Usuarios.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CuentasContablesFiscales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Ingresos_Series.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosClietesObligaciones.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivoCancelacionesIVA.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Formas_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Metodos_de_Pago.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Poliza_SAT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipo_Polizas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Uso_CFDI.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Tipos_de_Cambio.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cargar_Saldos_Iniciales.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.DIOT.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.MasivosBancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EstadodeResultados.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Diario.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balanza.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Balance.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Auxiliares.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Mayores.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteBalanzaGeneral.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Acceso.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ResetPass.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Proyectos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Designar_Usuarios_Equipos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Control_Bancos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.CatalogoSumas.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Cuentas_con_saldo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.RecontabilizadorComprobacion.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ImportarCatalogos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ContabilizadordeGastos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Liberar_UUID.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Reclasificador.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.EliminaXML.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_Complementos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Importar_XML_DB.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberadorPolizasEgresos.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarCarga.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.LiberarParcialidades.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.Poliza_Modelo.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.ReporteXml.resources
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.GenerateResource.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe.licenses
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CoreCompileInputs.cache
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.vbproj.CopyComplete
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.exe
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.xml
+D:\Documentos\Humberto\Desarrollo\Trabajo\Apps\ATM\Test\ATMFiscal\ATMFiscal\obj\Debug\ATMFiscal.pdb

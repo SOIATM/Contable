@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BalanceDatos" targetNamespace="http://tempuri.org/BalanceDatos.xsd" xmlns:mstns="http://tempuri.org/BalanceDatos.xsd" xmlns="http://tempuri.org/BalanceDatos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BalanceDatos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="BalanceDatos" msprop:Generator_UserDSName="BalanceDatos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Activo" msprop:Generator_TableClassName="ActivoDataTable" msprop:Generator_TableVarName="tableActivo" msprop:Generator_TablePropName="Activo" msprop:Generator_RowDeletingName="ActivoRowDeleting" msprop:Generator_RowChangingName="ActivoRowChanging" msprop:Generator_RowEvHandlerName="ActivoRowChangeEventHandler" msprop:Generator_RowDeletedName="ActivoRowDeleted" msprop:Generator_UserTableName="Activo" msprop:Generator_RowChangedName="ActivoRowChanged" msprop:Generator_RowEvArgName="ActivoRowChangeEvent" msprop:Generator_RowClassName="ActivoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="Saldo" msprop:Generator_ColumnVarNameInTable="columnSaldo" msprop:Generator_ColumnPropNameInRow="Saldo" msprop:Generator_ColumnPropNameInTable="SaldoColumn" msprop:Generator_UserColumnName="Saldo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Pasivo" msprop:Generator_TableClassName="PasivoDataTable" msprop:Generator_TableVarName="tablePasivo" msprop:Generator_TablePropName="Pasivo" msprop:Generator_RowDeletingName="PasivoRowDeleting" msprop:Generator_RowChangingName="PasivoRowChanging" msprop:Generator_RowEvHandlerName="PasivoRowChangeEventHandler" msprop:Generator_RowDeletedName="PasivoRowDeleted" msprop:Generator_UserTableName="Pasivo" msprop:Generator_RowChangedName="PasivoRowChanged" msprop:Generator_RowEvArgName="PasivoRowChangeEvent" msprop:Generator_RowClassName="PasivoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="Saldo" msprop:Generator_ColumnVarNameInTable="columnSaldo" msprop:Generator_ColumnPropNameInRow="Saldo" msprop:Generator_ColumnPropNameInTable="SaldoColumn" msprop:Generator_UserColumnName="Saldo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CtasOrden" msprop:Generator_TableClassName="CtasOrdenDataTable" msprop:Generator_TableVarName="tableCtasOrden" msprop:Generator_TablePropName="CtasOrden" msprop:Generator_RowDeletingName="CtasOrdenRowDeleting" msprop:Generator_RowChangingName="CtasOrdenRowChanging" msprop:Generator_RowEvHandlerName="CtasOrdenRowChangeEventHandler" msprop:Generator_RowDeletedName="CtasOrdenRowDeleted" msprop:Generator_UserTableName="CtasOrden" msprop:Generator_RowChangedName="CtasOrdenRowChanged" msprop:Generator_RowEvArgName="CtasOrdenRowChangeEvent" msprop:Generator_RowClassName="CtasOrdenRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="Saldo" msprop:Generator_ColumnVarNameInTable="columnSaldo" msprop:Generator_ColumnPropNameInRow="Saldo" msprop:Generator_ColumnPropNameInTable="SaldoColumn" msprop:Generator_UserColumnName="Saldo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

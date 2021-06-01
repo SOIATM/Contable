@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsAnual" targetNamespace="http://tempuri.org/DsAnual.xsd" xmlns:mstns="http://tempuri.org/DsAnual.xsd" xmlns="http://tempuri.org/DsAnual.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsAnual" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsAnual" msprop:Generator_UserDSName="DsAnual">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AnualGenerales" msprop:Generator_TableClassName="AnualGeneralesDataTable" msprop:Generator_TableVarName="tableAnualGenerales" msprop:Generator_TablePropName="AnualGenerales" msprop:Generator_RowDeletingName="AnualGeneralesRowDeleting" msprop:Generator_RowChangingName="AnualGeneralesRowChanging" msprop:Generator_RowEvHandlerName="AnualGeneralesRowChangeEventHandler" msprop:Generator_RowDeletedName="AnualGeneralesRowDeleted" msprop:Generator_UserTableName="AnualGenerales" msprop:Generator_RowChangedName="AnualGeneralesRowChanged" msprop:Generator_RowEvArgName="AnualGeneralesRowChangeEvent" msprop:Generator_RowClassName="AnualGeneralesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id_Cliente" msprop:Generator_ColumnVarNameInTable="columnId_Cliente" msprop:Generator_ColumnPropNameInRow="Id_Cliente" msprop:Generator_ColumnPropNameInTable="Id_ClienteColumn" msprop:Generator_UserColumnName="Id_Cliente" type="xs:string" minOccurs="0" />
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="Valor" msprop:Generator_ColumnVarNameInTable="columnValor" msprop:Generator_ColumnPropNameInRow="Valor" msprop:Generator_ColumnPropNameInTable="ValorColumn" msprop:Generator_UserColumnName="Valor" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatosAltasIMSS" targetNamespace="http://tempuri.org/DatosAltasIMSS.xsd" xmlns:mstns="http://tempuri.org/DatosAltasIMSS.xsd" xmlns="http://tempuri.org/DatosAltasIMSS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatosAltasIMSS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DatosAltasIMSS" msprop:Generator_UserDSName="DatosAltasIMSS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DatosAltas" msprop:Generator_TableClassName="DatosAltasDataTable" msprop:Generator_TableVarName="tableDatosAltas" msprop:Generator_TablePropName="DatosAltas" msprop:Generator_RowDeletingName="DatosAltasRowDeleting" msprop:Generator_RowChangingName="DatosAltasRowChanging" msprop:Generator_RowEvHandlerName="DatosAltasRowChangeEventHandler" msprop:Generator_RowDeletedName="DatosAltasRowDeleted" msprop:Generator_UserTableName="DatosAltas" msprop:Generator_RowChangedName="DatosAltasRowChanged" msprop:Generator_RowEvArgName="DatosAltasRowChangeEvent" msprop:Generator_RowClassName="DatosAltasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Num_Seg_Socila" msprop:Generator_ColumnVarNameInTable="columnNum_Seg_Socila" msprop:Generator_ColumnPropNameInRow="Num_Seg_Socila" msprop:Generator_ColumnPropNameInTable="Num_Seg_SocilaColumn" msprop:Generator_UserColumnName="Num_Seg_Socila" type="xs:string" minOccurs="0" />
+              <xs:element name="Dv" msprop:Generator_ColumnVarNameInTable="columnDv" msprop:Generator_ColumnPropNameInRow="Dv" msprop:Generator_ColumnPropNameInTable="DvColumn" msprop:Generator_UserColumnName="Dv" type="xs:string" minOccurs="0" />
+              <xs:element name="CURP" msprop:Generator_ColumnVarNameInTable="columnCURP" msprop:Generator_ColumnPropNameInRow="CURP" msprop:Generator_ColumnPropNameInTable="CURPColumn" msprop:Generator_UserColumnName="CURP" type="xs:string" minOccurs="0" />
+              <xs:element name="Nombre_Asegurado" msprop:Generator_ColumnVarNameInTable="columnNombre_Asegurado" msprop:Generator_ColumnPropNameInRow="Nombre_Asegurado" msprop:Generator_ColumnPropNameInTable="Nombre_AseguradoColumn" msprop:Generator_UserColumnName="Nombre_Asegurado" type="xs:string" minOccurs="0" />
+              <xs:element name="Salario_Base" msprop:Generator_ColumnVarNameInTable="columnSalario_Base" msprop:Generator_ColumnPropNameInRow="Salario_Base" msprop:Generator_ColumnPropNameInTable="Salario_BaseColumn" msprop:Generator_UserColumnName="Salario_Base" type="xs:string" minOccurs="0" />
+              <xs:element name="Tipo_Trabaja" msprop:Generator_ColumnVarNameInTable="columnTipo_Trabaja" msprop:Generator_ColumnPropNameInRow="Tipo_Trabaja" msprop:Generator_ColumnPropNameInTable="Tipo_TrabajaColumn" msprop:Generator_UserColumnName="Tipo_Trabaja" type="xs:string" minOccurs="0" />
+              <xs:element name="Tipo_Salario" msprop:Generator_ColumnVarNameInTable="columnTipo_Salario" msprop:Generator_ColumnPropNameInRow="Tipo_Salario" msprop:Generator_ColumnPropNameInTable="Tipo_SalarioColumn" msprop:Generator_UserColumnName="Tipo_Salario" type="xs:string" minOccurs="0" />
+              <xs:element name="Jornada_Reducida" msprop:Generator_ColumnVarNameInTable="columnJornada_Reducida" msprop:Generator_ColumnPropNameInRow="Jornada_Reducida" msprop:Generator_ColumnPropNameInTable="Jornada_ReducidaColumn" msprop:Generator_UserColumnName="Jornada_Reducida" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_Mov" msprop:Generator_ColumnVarNameInTable="columnFecha_Mov" msprop:Generator_ColumnPropNameInRow="Fecha_Mov" msprop:Generator_ColumnPropNameInTable="Fecha_MovColumn" msprop:Generator_UserColumnName="Fecha_Mov" type="xs:string" minOccurs="0" />
+              <xs:element name="UMF" msprop:Generator_ColumnVarNameInTable="columnUMF" msprop:Generator_ColumnPropNameInRow="UMF" msprop:Generator_ColumnPropNameInTable="UMFColumn" msprop:Generator_UserColumnName="UMF" type="xs:string" minOccurs="0" />
+              <xs:element name="Matriula" msprop:Generator_ColumnVarNameInTable="columnMatriula" msprop:Generator_ColumnPropNameInRow="Matriula" msprop:Generator_ColumnPropNameInTable="MatriulaColumn" msprop:Generator_UserColumnName="Matriula" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
